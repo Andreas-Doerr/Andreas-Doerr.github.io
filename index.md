@@ -9,3 +9,5 @@ They laughed at her. They pointed fingers, pulled their children away and whispe
 * Strength:    	14
 
 > They were right to fear me. If only they had listened to their cowardice. Had they not taken my home with fire, I would not have taken their children.
+
+<img src="https://gamepedia.cursecdn.com/pathofexile_gamepedia/8/8d/Witch_select.jpg?version=761d7fe7790841a124d7bd6e498d9848"/>
