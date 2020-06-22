@@ -7,3 +7,5 @@ They laughed at her. They pointed fingers, pulled their children away and whispe
 * Intelligence:	32
 * Dexterity:   	14
 * Strength:    	14
+
+> They were right to fear me. If only they had listened to their cowardice. Had they not taken my home with fire, I would not have taken their children.
